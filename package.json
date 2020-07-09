@@ -1,0 +1,15 @@
+{
+  "name": "infinitelove",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "iconv-lite": "^0.4.24",
+    "nodemailer": "^6.1.0"
+  }
+}
